@@ -1,0 +1,12 @@
+.app-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .job-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
